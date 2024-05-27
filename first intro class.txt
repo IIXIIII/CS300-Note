@@ -1,0 +1,31 @@
+Topic: 
+  Objective Oriented design:
+    Classes
+    Inheritance
+  Java Basic:
+    Method 
+    exception  
+  hierarchical data structure:
+    heaps
+    trees
+  Linear data struc:
+    List
+    Steak 
+    Queue
+  Algorithms and analysis
+    search 
+    sort
+    recursion
+
+
+
+
+
+Array:
+  oversized
+  perfect sized
+
+
+String: Objects
+== : get whether those are from the same address in memory
+compare content: .equals
