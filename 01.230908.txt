@@ -1,4 +1,4 @@
-int numbers = {1,2,3,4,5,6,6};
+ int numbers = {1,2,3,4,5,6,6};
 
 overesized array: have a size value 
 perfect size array: no other value, the length is the size
@@ -15,5 +15,33 @@ Methods (not functions)
 Static method is for this class
   when creating our own Object in another calss, then the static is not used
 
-double totoal = o;
-for 
+example:
+//defingn the method 
+public static String methodName (int p){ //p for parameters 
+  //what the method do
+  //using the generic input p 
+}
+//calling the method 
+String s1 = methodName(5);
+String s2 = methodName(10);
+//etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
