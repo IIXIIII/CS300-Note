@@ -3,4 +3,17 @@ int numbers = {1,2,3,4,5,6,6};
 overesized array: have a size value 
 perfect size array: no other value, the length is the size
 
+null - the reference is empty, pointing to nothing in the mamory
 
+primitive type: int, double, char, flow, ... 
+  don't have a reference on the memory, because it is small enough
+Object: have a pointer that point to the memory
+
+Methods (not functions)
+          because methods in java is associated with a class, and all code in java live inside a calss
+
+Static method is for this class
+  when creating our own Object in another calss, then the static is not used
+
+double totoal = o;
+for 
