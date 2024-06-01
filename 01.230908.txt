@@ -1,3 +1,4 @@
+=================================
 today's topic:
   arrays in java 
       rules and syntax
@@ -7,6 +8,7 @@ today's topic:
       definition calling 
       parameters 
   array and methods
+===================================
 
 
 int numbers = {1,2,3,4,5,6,6};
