@@ -9,8 +9,12 @@ today's topic
     visualizing objects (reference types vs. primitive types)
     wrapper classes
   =============================
+questions: 
+  what is Comparables<String>;
 
-  
+
+Testing Method:
+  java 
 
 
 
