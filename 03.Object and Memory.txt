@@ -17,10 +17,22 @@ Linked List:
   add at any location
 
 
+primitive   and   reference type variable
+heap              steak
+diff region       which is a memory region 
+shared            have a phrame that is unique to each method
+
+NullPointerException:
+
+Memory Regions:
+Code                                                                 (the space is constant)
+Static Memory: any static (class) variables                          (the space is constant)
+Stack: local variables - primitive values and referencess to objects (the space is growing down from top) 
+                                                                  
+Heap: object memory, what get used when you say New                  (the space is growing up from bottom) 
 
 
-
-
+Garbage Collection:
 
 
 
