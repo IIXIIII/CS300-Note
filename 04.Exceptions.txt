@@ -1,0 +1,46 @@
+Spetember 18,23
+
+Topics:
+  NullpoiterExceptions 
+  Shallow adn deep copies 
+  Reading Exception text
+  Exceptions:
+    why 
+    what
+    how 
+--------------------------------
+
+NullpointerException:
+
+  Calling method using a parameter that is null
+    Integer.parselnt(null);
+
+  Calling an instance method using a null object
+    Object anObject = null;
+    anObject.something();
+
+  Trying to access an array index that is uninitialized 
+    int[] array;
+    System.out.println(array[[1]);
+
+  trying to use a variable that is only declared not initialized 
+    int [] array;
+    array.length ==4;
+
+Shallow copies and Deep Copies 
+  shallow: copy of the reference:
+    arr1 == arr2
+
+  Deep Copy:
+    Array.deepEquals(arr1, arr2);
+    making a copy of every element in the array; 
+
+  
+
+
+
+
+
+
+
+
