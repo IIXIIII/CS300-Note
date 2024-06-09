@@ -33,9 +33,9 @@ Heap: object memory, what get used when you say New                  (the space 
 
 
 Garbage Collection:
+for lower coding language like C or C++
 
-
-
+Java: auto garbage collectoin
 
 
 
